@@ -1,5 +1,5 @@
 # TimbreNet
-The NLP project for XIA Xiaoyu and GUO Xiaoyu
+A NLP project of XIA Xiaoyu and GUO Xiaoyu
 
 # Dataset
 Opencpop dataset can be found through https://drive.google.com/drive/folders/1ouBulY56Mj58tFYbiM_t2ES4UsRUKCsg?usp=share_link
